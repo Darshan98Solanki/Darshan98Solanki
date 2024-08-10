@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darshan Solanki
+- 👋 Hi, I’m @Darshan Solanki, Freelancer
 - 👀 I’m interested in Computer vision and java 
 - 🌱 I’m currently learning Opencv in python
 
